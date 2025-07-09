@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":39,"enabled":true,"outputFile":"CySmart_1.3.0.0-debug.apk","fullName":"debug","baseName":"debug","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.cypress.cysmart","split":"","minSdkVersion":"23"}}]
